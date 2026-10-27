@@ -1,2 +1,2 @@
-COLLEGE ASSIGNMENT - GDG INTERVIEW
-I made this Taskflow assignment for GDG at BPPIMT with the help of AI as I am preliminary in my technical skills and I am currently studying the fundamentals of coding and website building. I look forward to learning with enthusiasm and through the pursuit of opportunities, knowledge and mistakes, as a member of GDG and I will continuously improve my skills so that I can contribute sincerely.
+College Assignment - Google Developer Group:
+I made this Taskflow assignment for my GDG interview at BPPIMT with the help of AI as I am preliminary in my technical skills and I am currently studying the fundamentals of coding and website building. I look forward to learning with enthusiasm and through the pursuit of opportunities, knowledge and mistakes, and I will continuously improve my skills so that I can contribute sincerely.
