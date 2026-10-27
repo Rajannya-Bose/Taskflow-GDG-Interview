@@ -1,1 +1,1 @@
-
+I made this with the help of AI as I am preliminary in my technical skills and I am studying the fundamentals of coding and website building. I look forward to learning through enthusiasm, pursuit of knowledge and mistakes, as a member of GDG and I will be continuously improving my skills and abilities through hard work and dedication so that I can contribute to this chapter on campus.
